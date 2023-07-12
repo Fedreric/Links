@@ -43,3 +43,5 @@
 - View Transition API: [View Transition Examples](https://simple-set-demos.glitch.me/)
   - Colección de ejemplos de transiciones de vistas con view transition API.
   - Verificar si el soporte nativo ya está disponible en el navegador. [View Transition Support](https://caniuse.com/view-transitions)
+- JSON Placeholder: [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+  - API para consumir en pruebas de desarrollo, tiene posts, comments, etc.
