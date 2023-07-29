@@ -8,6 +8,8 @@
 4. [Herramientas para diseño Responsive](#herramientas-para-diseño-responsive)
 5. [Recursos para React](#recursos-para-react)
 6. [Recursos API web](#recursos-api-web)
+7. [Recursos Aprendizaje](#recursos-aprendizaje)
+8. [Componentes UI](#componentes-ui)
 
 ### Manejo de imágenes:
 
@@ -47,3 +49,19 @@
   - Verificar si el soporte nativo ya está disponible en el navegador. [View Transition Support](https://caniuse.com/view-transitions)
 - JSON Placeholder: [JSON Placeholder](https://jsonplaceholder.typicode.com/)
   - API para consumir en pruebas de desarrollo, tiene posts, comments, etc.
+
+### Recursos Aprendizaje
+
+- Dev Tools TIPS: [DevToolsTips](https://devtoolstips.org/)
+  - Un blog con tips de uso de las herramientas de desarrollo de los navegadores.
+- JS Challenger: [JSChallenger](https://jschallenger.com/)
+  - Colección de más de 180 ejercicios de JS para poner a prueba el manejo del lenguaje.
+
+### Componentes UI
+
+- UI Verse: [UIVerse](https://uiverse.io/)
+  - Colección con componentes UI para cualquier proyecto hechos con CSS.
+- Material UI: [MUI](https://mui.com/)
+  - Biblioteca con componentes UI para React con base en Material Design.
+- Ant Design: [ANTD](https://ant.design/)
+  - Biblioteca con componentes UI para React, liviana y fácil de utilizar.
