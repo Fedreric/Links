@@ -16,6 +16,8 @@
 
 - Compresor de imagenes: [Squoosh App](https://squoosh.app/)
   - Utilizar formato webp para optimizar imágenes para web.
+- Coleccion de vectores e íconos SVG: [SVG Repo](https://www.svgrepo.com/)
+  - Permite editar y desacargar una amplia colección de vectores e íconos svg.
 
 ### Manejo de videos:
 
