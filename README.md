@@ -10,6 +10,7 @@
 6. [Recursos API web](#recursos-api-web)
 7. [Recursos Aprendizaje](#recursos-aprendizaje)
 8. [Componentes UI](#componentes-ui)
+9. [Servidores para deploy](#servidores-para-deploy)
 
 ### Manejo de imágenes:
 
@@ -65,3 +66,13 @@
   - Biblioteca con componentes UI para React con base en Material Design.
 - Ant Design: [ANTD](https://ant.design/)
   - Biblioteca con componentes UI para React, liviana y fácil de utilizar.
+
+### Servidores para Deploy
+
+- Fl0 (backend): [fl0](https://www.fl0.com/)
+- Render (backend, frontend, docker): [render](https://render.com/)
+- Fly IO (fullstack): [fly](https://fly.io/)
+- Koyeb (backend, docker): [koyeb](https://www.koyeb.com/)
+- Qoddi (backend): [qoddi](https://qoddi.com/)
+- Netlify (frontend): [netlify](https://www.netlify.com/)
+- Vercel (frontend): [vercel](https://vercel.com/)
